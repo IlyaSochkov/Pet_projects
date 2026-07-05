@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Купить молоко",
+      "tags": [
+        "важное",
+        "магазин"
+      ],
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Купить хлеб",
+      "tags": [
+        "важное",
+        "магазин"
+      ],
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Купить сок",
+      "tags": [
+        "важное",
+        "магазин"
+      ],
+      "done": false
+    },
+    {
+      "id": 4,
+      "title": "Купить яйца",
+      "tags": [
+        "важное",
+        "магазин"
+      ],
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "Trololo",
+      "tags": [],
+      "done": false
+    },
+    {
+      "id": 6,
+      "title": "Die hard",
+      "tags": [],
+      "done": false
+    },
+    {
+      "id": 7,
+      "title": "",
+      "tags": [],
+      "done": false
+    }
+  ]
+}
