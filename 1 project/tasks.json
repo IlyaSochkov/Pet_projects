@@ -7,7 +7,7 @@
         "важное",
         "магазин"
       ],
-      "done": false
+      "done": true
     },
     {
       "id": 2,
@@ -49,8 +49,8 @@
       "done": false
     },
     {
-      "id": 7,
-      "title": "",
+      "id": 8,
+      "title": "eee",
       "tags": [],
       "done": false
     }
